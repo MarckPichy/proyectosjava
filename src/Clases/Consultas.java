@@ -2,7 +2,7 @@ package Clases;
 
     import ConexionConMySQL.Conexion;
     import Formularios.Crud;
-import java.awt.HeadlessException;
+    import java.awt.HeadlessException;
     import java.sql.Connection;
     import java.sql.PreparedStatement;
     import java.sql.ResultSet;
