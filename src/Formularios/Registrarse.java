@@ -1,6 +1,7 @@
 package Formularios;
 
     import Clases.Consultas;
+import Main.DiagnoMed;
     import com.formdev.flatlaf.intellijthemes.FlatDarkFlatIJTheme;
 
 public class Registrarse extends javax.swing.JFrame {

@@ -24,4 +24,3 @@ public class Conexion {
         return con;
     }
 }
-
